@@ -22,7 +22,7 @@ dependencies = [
     "numpy",
     "scipy",
     "tokenizers",
-    "torch==2.0.0a0+1767026",
+    "torch>=2.0.0",
     "tqdm",
     "transformers",
 ]
